@@ -7,5 +7,6 @@ The idea is to basically just publish a database via a rest api using two or mor
 
 
 
-Data flow is as below 
-user <-> nginx <-> (Service 1 | Service 2) <-> database
+Data flow is as below:
+
+`user <-> nginx <-> (Service 1 | Service 2) <-> database`
